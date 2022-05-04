@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Counory
+- 👀 I’m interested in Java programming and other stuff.
+- 🌱 I’m currently learning Java and C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Counory#4329
